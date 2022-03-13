@@ -1746,6 +1746,10 @@ article:last-child {
   margin: 0 0 2em 0;
 }
 
+.image.featured img {
+  height: 269px;
+}
+
 .image.left {
   float: left;
   margin: 0 2em 2em 0;
